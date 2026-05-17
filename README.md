@@ -261,7 +261,7 @@ The Migration Viability Score is a conceptual framework intended for strategic e
 
 **Matt DeMarco**
 
-- Blog: https://oramatt.com
+- Blog post: [https://oramatt.com](https://oramatt.com/2025/07/08/migration-viability-score-a-smarter-approach-to-database-modernization/)
 - GitHub: https://github.com/oramatt
 - LinkedIn: https://linkedin.com/in/mattdemarco
 
